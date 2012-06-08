@@ -1,0 +1,1 @@
+This is a Notre Dame based theme I styled for jquery ui, its not 100% perfect but better than all previous attempts, feel free to improve
